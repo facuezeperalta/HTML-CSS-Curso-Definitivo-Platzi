@@ -1,0 +1,11 @@
+Back-end:
+trabaja del lado del servidor, maneja toda la logica.
+Lenguajes que me interesan: Node JS, .NET, Python.
+Infraestructura: Google Cloud, Digital Ocean, AWS, Heroku.
+Bases de datos: MongoDB(JS) NO RELACIONAL
+MySQL (relacional).
+PostgreSQL (relacional).
+
+Full Stack: Fusión de un front y un back. No maneja al 100% todas las tecnologías. No ES SANO SABER TODO. 
+
+Paginas webs: Dinámicas o Estáticas:

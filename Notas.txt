@@ -9,3 +9,7 @@ PostgreSQL (relacional).
 Full Stack: Fusión de un front y un back. No maneja al 100% todas las tecnologías. No ES SANO SABER TODO. 
 
 Paginas webs: Dinámicas o Estáticas:
+
+
+**Usar HTML semántico.
+

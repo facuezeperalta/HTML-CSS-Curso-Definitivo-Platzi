@@ -1,0 +1,31 @@
+.main-nav{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 5px;
+    padding-top: 1px;
+    background-color: antiquewhite;
+}
+
+.main-nav__item{
+    display: inline-block;
+
+}
+
+.main-nav__item a{
+    color: grey;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.main-nav__item a:hover{
+    color: rgb(103, 165, 202);
+}
+
+.main-nav__item a:active{
+    color:rgb(231, 199, 121);
+}
+
+.main-nav__item a::after{
+    content: " | ";
+}

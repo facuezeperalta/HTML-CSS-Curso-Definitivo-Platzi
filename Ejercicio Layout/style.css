@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.cabecera{
+    background-color: antiquewhite;
+}
+
+.nav-main{
+    font-size: 1.5rem;
+    color: gray;
+    display: inline-block;
+    position: fixed;
+    right: 20px;
+    margin-right: 15px;
+    padding-left: 10px;
+}
+
+
+div li{
+    list-style: none;
+    display: inline-block
+    
+}
+
+.main-section{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}

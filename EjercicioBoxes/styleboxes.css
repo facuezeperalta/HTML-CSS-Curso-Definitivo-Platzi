@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 65.5%;
+}
+#first{
+    background-color: antiquewhite;
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 250px;
+    height: 100px;
+}
